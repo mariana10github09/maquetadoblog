@@ -1,2 +1,2 @@
 # maquetadoblog
-blog de cocina mejorado
+blog mejorado
